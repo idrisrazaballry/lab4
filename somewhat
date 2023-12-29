@@ -1,9 +1,4 @@
-#include<stdio.h>
-void main()
-{
-printf("hello world");
-printf("end of the program");
-}
+#include
 hello everyonr 
 here I would like 
 what can i do
